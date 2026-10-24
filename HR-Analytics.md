@@ -35,3 +35,6 @@ Dataset
 IBM HR Analytics Employee Attrition & Performance sample dataset.
 
 Note: This project uses sample data for educational and portfolio purposes.
+## Dashboard Preview
+
+![HR Dashboard](IMG_6348.jpeg)

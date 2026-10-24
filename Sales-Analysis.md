@@ -41,4 +41,4 @@ Dataset
 Sales transaction data covering the year 2025.
 ## Dashboard Preview
 
-![Sales Dashboard](IMG_6348.jpeg)
+![Sales Dashboard](F9CB7D2A-76AE-4186-9CD9-38814F07B2A4.jpeg)

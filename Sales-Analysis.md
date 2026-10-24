@@ -39,7 +39,6 @@ This project provided practical experience in analyzing sales data, creating KPI
 Dataset
 
 Sales transaction data covering the year 2025.
-Dashboard Preview ##
-
+## Dashboard Preview
 
 ![Sales Dashboard](IMG_6348.jpeg)
